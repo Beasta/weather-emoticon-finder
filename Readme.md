@@ -11,8 +11,9 @@ npm install weather-emoticon-finder
 ## Usage
 ```js
 
-var UnicodeWeather = require('weather-emoticon-finder');
-console.log(UnicodeWeather().get('clear');
+var WeatherEmoticonFinder = require('weather-emoticon-finder');
+console.log(WeatherEmoticonFinder().get('clear'));
+// ☀️
 ```
 ## Running the tests
 
