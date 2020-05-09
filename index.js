@@ -2,6 +2,7 @@ import { lowerCase } from 'lodash';
 
 const iconMap = {
   clear: '☀️',
+  sunny: '☀️',
   overcast: '🌫',
   'partly cloudy': '🌤',
   'mostly cloudy': '⛅️',
