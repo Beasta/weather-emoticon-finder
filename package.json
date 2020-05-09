@@ -1,6 +1,6 @@
 {
   "name": "weather-emoticon-finder",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "maps weather phrases to a simple set of unicode weather emoticons",
   "main": "build/index.js",
   "scripts": {
