@@ -4,6 +4,7 @@ const iconMap = {
   clear: '☀️',
   sunny: '☀️',
   overcast: '🌫',
+  cloudy: '☁️',
   'partly cloudy': '🌤',
   'mostly cloudy': '⛅️',
   'scattered clouds': '🌤',
