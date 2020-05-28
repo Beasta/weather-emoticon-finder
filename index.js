@@ -7,6 +7,7 @@ const iconMap = {
   'partly cloudy': '🌤',
   'mostly cloudy': '⛅️',
   'scattered clouds': '🌤',
+  'mostly sunny': '🌤',
   rain: '🌧',
   snow: '❄️',
   fog: '🌫',
